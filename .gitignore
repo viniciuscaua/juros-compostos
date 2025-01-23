@@ -1,0 +1,9 @@
+# Logs
+*.log
+
+# Arquivos de ambiente
+.env
+
+
+# Testes
+/tests/
